@@ -1,6 +1,6 @@
 # Arduino_Telephone
 
-PROTONGAMER -2020
+2020
 
 Make your own hardware to convert a dial phone into a mobile dial phone
 
